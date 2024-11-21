@@ -157,9 +157,38 @@ const recipes = {
         "1 cup water"
     ],
     "instructions": "1. In a large bowl, marinate the chicken with soy sauce, vinegar, and minced garlic for at least 30 minutes. 2. Heat the cooking oil in a pot over medium heat. Sauté the onions until softened, then add the marinated chicken (reserve the marinade). Brown the chicken on all sides. 3. Pour in the reserved marinade, water, peppercorns, bay leaves, and brown sugar (if using). Bring to a boil, then reduce the heat and simmer for 30-40 minutes, or until the chicken is tender and the sauce has reduced. 4. Serve hot with steamed rice and enjoy your Chicken Adobo!"
+  },
+  {
+    "title": "Grilled Chicken Wraps",
+    "image": "https://littlesunnykitchen.com/wp-content/uploads/Grilled-Chicken-Wraps-21-500x375.jpg",
+    "ingredients": [
+        "2 large tortillas",
+        "1 cup cooked grilled chicken, sliced",
+        "1 cup lettuce, shredded",
+        "½ cup tomatoes, diced",
+        "½ cup shredded cheese",
+        "¼ cup ranch or your favorite dressing"  
+    ],
+    "instructions": "1.Lay the tortillas flat on a clean surface.2.Spread a thin layer of dressing over each tortilla.3.Add chicken, lettuce, tomatoes, and shredded cheese.4.Roll the tortillas tightly and slice in half.5.Serve with a side of fruit or chips."
+  },
+  
+  {
+    "title": "Mediterranean Quinoa Bowl",
+    "image": "https://www.eatingbirdfood.com/wp-content/uploads/2022/11/mediterranean-quinoa-bowl-hero.jpg",
+    "ingredients": [
+        "1 cup cooked quinoa",
+        "½ cup cherry tomatoes, halved",
+        "½ cup cucumber, diced",
+        "¼ cup red onion, thinly sliced",
+        "¼ cup crumbled feta cheese",
+        "2 tbsp olive ",
+        "1 tbsp lemon juice",
+        "1 tsp dried oregano"
+          
+    ],
+    "instructions": "1.In a bowl, combine quinoa, tomatoes, cucumber, and red onion.2.Drizzle with olive oil and lemon juice.3.Sprinkle oregano and toss well.4.Top with crumbled feta and serve."
   }
-  
-  
+
     ],
     dinner: [
       {
@@ -240,6 +269,37 @@ const recipes = {
         "1 cup water"
     ],
     "instructions": "1. In a large bowl, marinate the chicken with soy sauce, vinegar, and minced garlic for at least 30 minutes. 2. Heat the cooking oil in a pot over medium heat. Sauté the onions until softened, then add the marinated chicken (reserve the marinade). Brown the chicken on all sides. 3. Pour in the reserved marinade, water, peppercorns, bay leaves, and brown sugar (if using). Bring to a boil, then reduce the heat and simmer for 30-40 minutes, or until the chicken is tender and the sauce has reduced. 4. Serve hot with steamed rice and enjoy your Chicken Adobo!"
+  },
+
+  {
+    "title": "Creamy Garlic Butter Salmon",
+    "image": "https://cafedelites.com/wp-content/uploads/2019/02/Creamy-Garlic-Salmon-RECIPE-IMAGE-18.jpg",
+    "ingredients": [
+        "4 salmon fillets",
+        "2 tbsp olive oil",
+        "2 tbsp butter",
+        "3 garlic cloves, minced",
+        "½ cup heavy cream",
+        "1 tbsp lemon juice",
+        "1 tsp dried parsley"
+    ],
+    "instructions": "1.Heat olive oil in a skillet over medium heat and sear salmon on both sides (4-5 minutes per side). Remove and set aside.2.In the same skillet, melt butter, then sauté garlic until fragrant.3.Stir in heavy cream, lemon juice, and parsley. Simmer for 2 minutes.4.Return the salmon to the skillet and spoon sauce over it.5.Serve with steamed vegetables or rice."
+  },
+
+  {
+    "title": "Chicken Alfredo Pasta",
+    "image": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2023-06-chicken-alfredo-pasta-reshoot%2Fchicken-alfredo-pasta-2-vertical",
+    "ingredients": [
+        "300g fettuccine",
+        "2 chicken breasts, sliced",
+        "2 tbsp olive oil",
+        "2 garlic cloves, minced",
+        "1 cup heavy cream",
+        "½ cup grated Parmesan",
+        "Salt and pepper to taste"
+        
+    ],
+    "instructions": "1.Cook fettuccine according to package instructions. Drain and set aside.2.Heat olive oil in a skillet and cook chicken until golden and cooked through. Remove and set aside.3.In the same skillet, sauté garlic for 1 minute. Add heavy cream and Parmesan, stirring until smooth.4.Return chicken to the skillet and add pasta. Toss to combine.5.Serve with a sprinkle of extra Parmesan."
   }
   
   
@@ -284,7 +344,47 @@ const recipes = {
             "1 bay leaf"
         ],
         "instructions": "1. In a large bowl, combine the grated papaya, carrot, red bell pepper, onion, and raisins. Toss well. 2. In a saucepan, combine the vinegar, sugar, salt, peppercorns, ginger (if using), and bay leaf. Bring to a boil, stirring occasionally until the sugar is dissolved. Remove from heat and let the mixture cool completely. 3. Once the vinegar mixture has cooled, pour it over the papaya mixture and toss to coat. 4. Transfer the atchara into a clean, airtight jar. Let it sit in the refrigerator for at least 24 hours to allow the flavors to meld. 5. Serve chilled as a side dish with your favorite Filipino main courses. Enjoy your Atchara!"
-    }
+    },
+
+    {
+      "title": "Garlic Mashed Potatoes",
+      "image": "https://www.allrecipes.com/thmb/ytnCq3jVoAyGzGxm_oZxqGI-HCU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18290-garlic-mashed-potatoes-ddmfs-beauty2-4x3-0327-2-47384a10cded40ae90e574bc7fdb9433.jpg",
+      "ingredients": [
+          "4 large potatoes, peeled and cubed",
+          "3 garlic cloves, minced",
+          "3 tbsp butter",
+          "½ cup milk (or heavy cream)",
+          "Salt and pepper to taste"
+          
+      ],
+      "instructions": "1.Boil potatoes in salted water until fork-tender, about 15-20 minutes.2.Drain and return potatoes to the pot.3.Mash the potatoes while adding butter, garlic, and milk.4.Season with salt and pepper. Stir until smooth and creamy.5.Serve warm as a classic side."
+  },
+
+  {
+    "title": "Roasted Vegetables",
+    "image": "https://s23209.pcdn.co/wp-content/uploads/2014/10/Roasted-VegetablesIMG_0409.jpg",
+    "ingredients": [
+        "2 cups mixed vegetables (e.g., carrots, zucchini, bell peppers)",
+        "2 tbsp olive oil",
+        "1 tsp garlic powder",
+        "1 tsp dried thyme",
+        "Salt and pepper to taste"
+        
+    ],
+    "instructions": "1.Preheat oven to 400°F (200°C).2.Toss vegetables with olive oil, garlic powder, thyme, salt, and pepper.3.Spread on a baking sheet in a single layer.4.Roast for 20-25 minutes, stirring halfway through.5.Serve warm as a healthy side."
+},
+
+{
+  "title": "Caesar Salad",
+  "image": "https://www.grocery.coop/sites/default/files/NCG_Dennis_Becker_Classic_Caesar_Salad_715_x_477.jpg",
+  "ingredients": [
+      "4 cups romaine lettuce, chopped",
+      "½ cup croutons",
+      "¼ cup Parmesan cheese, grated",
+      "2 tbsp Caesar dressing"
+  ],
+  "instructions": "1.In a large bowl, combine lettuce, croutons, and Parmesan cheese.2.Drizzle Caesar dressing over the salad.3.Toss well to coat evenly.4.Serve immediately as a refreshing side."
+}
     
     ],
     dessert: [
@@ -338,7 +438,38 @@ const recipes = {
             image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpf1eoNbsWblTDxgrmnzqLSutOOZBoo69CNg&s",
             ingredients: ["Flour", "Cocoa Powder", "Sugar", "Butter", "Eggs", "Milk"],
             instructions: "Mix ingredients and bake at 350°F for 30 minutes."
-        }
+        },
+    
+        {
+          title: "Classic Brownies",
+          image: "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/2/18/1/FNK_Brownie-Guide-Classic-Brownies_s4x3.jpg.rend.hgtvcom.616.462.suffix/1456176242492.webp",
+          ingredients: [
+            "½ cup butter, melted",
+            "1 cup sugar",
+            "2 eggs",
+            "1 tsp vanilla extract",
+            "⅓ cup cocoa powder",
+            "½ cup all-purpose flour",
+            "¼ tsp baking powder",
+            "¼ tsp salt"
+          ],
+          instructions: "1.Preheat oven to 350°F (175°C). Grease an 8-inch square baking pan.2.In a bowl, mix melted butter and sugar. Stir in eggs and vanilla.3.Add cocoa powder, flour, baking powder, and salt. Mix until smooth.4.Pour batter into the prepared pan and spread evenly.5.Bake for 20-25 minutes. Let cool before cutting into squares."
+      },
+
+      {
+        title: "Vanilla Panna Cotta",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvKURG7Xh359YyONyY9eSFy7JQyROGO1EU8w&s",
+        ingredients: [
+          "2 cups heavy cream",
+          "½ cup sugar",
+          "1 tsp vanilla extract",
+          "1½ tsp gelatin powder",
+          "2 tbsp cold water"
+
+        ],
+        instructions: "1.Sprinkle gelatin over cold water and let sit for 5 minutes.2.In a saucepan, heat cream and sugar over medium heat, stirring until sugar dissolves. Do not boil.3.Remove from heat and stir in vanilla and the gelatin mixture until fully dissolved.4.Pour into ramekins and refrigerate for at least 4 hours or until set.5.Serve with fresh berries or a drizzle of caramel."
+    }
+    
     ],
     snack: [
       {
@@ -366,7 +497,60 @@ const recipes = {
           "Banana leaves (optional, for lining)"
       ],
       "instructions": "1. Wash the glutinous rice thoroughly in water and drain. 2. In a medium saucepan, combine the glutinous rice, coconut milk, sugar, and salt. Stir well and bring to a boil over medium heat. 3. Once boiling, reduce the heat to low and cover the pot. Let the rice simmer for about 20-30 minutes or until the rice absorbs the coconut milk and becomes soft. Stir occasionally to prevent sticking. 4. Once the rice is cooked, remove from heat. If desired, add vanilla extract for extra flavor and mix well. 5. Optionally, line a mold or small cups with banana leaves to give the kakanin an authentic presentation. 6. Scoop the rice mixture into the prepared mold and press down gently to compact it. 7. Top with grated coconut for added texture and flavor. 8. Allow to cool for 30 minutes before serving. 9. Serve as a snack or dessert and enjoy your Kakanin!"
-  }
+  },
+
+  {
+    "title": "Homemade Granola Bars",
+    "image": "https://www.inspiredtaste.net/wp-content/uploads/2019/08/Homemade-Granola-Bar-Recipe-1200.jpg",
+    "ingredients": [
+        "2 cups rolled oats",
+        "½ cup honey",
+        "½ cup peanut butter",
+        "½ cup chopped nuts or seeds",
+        "½ cup dried fruit (e.g., raisins, cranberries)"
+    ],
+    "instructions": "1.Preheat oven to 325°F (165°C) and line a baking dish with parchment paper.2.Mix oats, nuts, and dried fruit in a bowl.3.In a saucepan, heat honey and peanut butter until smooth.4.Pour the mixture over the oats and stir until evenly coated.5.Press the mixture into the baking dish and bake for 15-20 minutes.6.Cool completely, then slice into bars."
+},
+
+{
+  "title": "Stuffed Cucumber Bites",
+  "image": "https://divaliciousrecipes.com/wp-content/uploads/2016/08/Stuffed-cucumber.jpg",
+  "ingredients": [
+      "1 large cucumber",
+      "½ cup cream cheese",
+      "¼ cup smoked salmon or diced vegetables",
+      "1 tbsp chopped dill"
+  ],
+  "instructions": "1.Slice the cucumber into 1-inch rounds and scoop out a small well in the center of each.2.In a bowl, mix cream cheese and dill.3.Fill each cucumber round with the cream cheese mixture.4.Top with smoked salmon or diced vegetables. Chill before serving."
+},
+
+{
+  "title": "Baked Zucchini Chips",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY2INMcJNFbaU6HsD4xHMHYT6f-sfPmTlINw&shttps://cdn.loveandlemons.com/wp-content/uploads/2020/07/baked-zucchini.jpg",
+  "ingredients": [
+      "1 zucchini, thinly sliced",
+      "1 tbsp olive oil",
+      "¼ cup grated Parmesan",
+      "½ tsp garlic powder",
+      "Salt and pepper to taste"
+
+  ],
+  "instructions": "1.Preheat oven to 375°F (190°C) and line a baking sheet with parchment paper.2.Toss zucchini slices with olive oil, Parmesan, garlic powder, salt, and pepper.3.Arrange slices in a single layer on the baking sheet.4.Bake for 15-20 minutes until crispy. Serve immediately."
+},
+
+{
+  "title": "Mini Caprese Skewers",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY2INMcJNFbaU6HsD4xHMHYT6f-sfPmTlINw&shttps://cdn.loveandlemons.com/wp-content/uploads/2021/08/caprese-skewers.jpg",
+  "ingredients": [
+      "12 cherry tomatoes",
+      "12 mozzarella balls",
+      "12 basil leaves",
+      "2 tbsp balsamic glaze (optional)",
+      "12 small skewers or toothpicks"
+
+  ],
+  "instructions": "1.Assemble each skewer with a cherry tomato, mozzarella ball, and basil leaf.2.Drizzle with balsamic glaze for extra flavor.3.Serve as a refreshing and light snack."
+}
   
     ]
   };
