@@ -571,9 +571,11 @@ const recipes = {
     document.getElementById("recipe-title").textContent = recipe.title;
     document.getElementById("recipe-image").src = recipe.image;
     document.getElementById("recipe-ingredients").innerHTML = recipe.ingredients
-        .map(ingredient => `<li>${ingredient}</li>`)
+        .map(ingredient => <li>${ingredient}</li>)
         .join('');
-    document.getElementById("recipe-instructions").textContent = recipe.instructions;
+        document.getElementById("recipe-instructions").innerHTML = recipe.instructions
+        .map(instructions => <li>${instructions}</li>)
+        .join('');
   }
   
   // Event listener for the "Generate Recipe" button
